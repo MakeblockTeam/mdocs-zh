@@ -1,9 +1,5 @@
-Introduction
+介绍
 ------------
 
-We suggest you download and use the `mu editor <http://codewith.mu/>`_ when
-working through these tutorials. Instructions for downloading and installing
-Mu are on its website. You may need to install a driver, depending on your
-platform (instruction are on the website).
+mblock 5 是一款面向 STEAM 教育领域的编程软件，基于 Scratch 3.0 开发，可进行积木式编程和代码编程。它能让用户创作有趣的故事、游戏、动画等作品，并支持 Makeblock 体系、Arduino 和 micro:bit 等硬件的编程，同时融入人工智能（AI）和 物联网（IoT）等前沿技术，为编程教育和学习提供更好的支持。
 
-Mu works with Windows, OSX and Linux.

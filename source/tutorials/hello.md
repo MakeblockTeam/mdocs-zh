@@ -1,12 +1,9 @@
-Hello, World!
+你好，世界!
 -------------
 
-The traditional way to start programming in a new language is to get your
-computer to say, "Hello, World!".
+一般来讲，学习一门新的编程语言的方法是让电脑说:“你好，世界!”
 
-.. image:: ./images/mblock5-codey.gif
-
-This is easy with codey::
+小程实现起来非常简单::
 
     import codey
     codey.show("Hello, World!")

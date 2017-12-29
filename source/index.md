@@ -10,18 +10,18 @@ This is an introduction.
 
 .. toctree::
     :maxdepth: 2
-    :caption: Tutorials
+    :caption: 使用说明
 
     tutorials/hello
 
 .. toctree::
     :maxdepth: 2
-    :caption: API Reference
+    :caption: 接口参考手册
 
     api/introduction
     api/codey
-    api/scratch-sprite
-    api/turtle
+    <!-- api/scratch-sprite
+    api/turtle -->
 
 * :ref:`genindex`
 * :ref:`modindex`
