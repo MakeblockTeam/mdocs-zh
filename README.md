@@ -22,3 +22,10 @@ npm install
 ```
 npm run build  && npm start
 ```
+
+if in env, activate environment
+
+```
+cd ~/sphinxenv
+source bin/activate
+```
