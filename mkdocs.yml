@@ -1,0 +1,5 @@
+site_name: mdocs
+pages:
+    - TUTORIALS: index.md
+    - API REFERENCE: about.md
+theme: readthedocs
