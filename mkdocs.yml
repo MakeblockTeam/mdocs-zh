@@ -8,5 +8,5 @@ pages:
     - '简介': 'index.md'
     - '你好，世界': 'tutorials/helloworld.md'
 - API 文档:
-    - '程小奔 python api': 'api/codey.md'
-    - 'scratch 精灵图 ': 'api/scratch-sprite.md'
+    - '程小奔 Python API': 'api/codey.md'
+    # - 'scratch 精灵图 ': 'api/scratch-sprite.md'
