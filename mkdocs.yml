@@ -1,10 +1,12 @@
 site_name: mdocs
+theme: readthedocs
+docs_dir: docs
+copyright: Copyright (c) 2018 Makeblock Team
 
 pages:
 - 使用说明:
-    - '简介': 'tutorials/introduction.md'
+    - '简介': 'index.md'
     - '你好，世界': 'tutorials/helloworld.md'
 - API 文档:
     - '程小奔 python api': 'api/codey.md'
     - 'scratch 精灵图 ': 'api/scratch-sprite.md'
-theme: readthedocs
