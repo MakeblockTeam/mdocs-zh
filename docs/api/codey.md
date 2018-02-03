@@ -16,12 +16,23 @@
 
     codey.message('hello')
 
-**示例**
+**示例1**
 
     import codey
 
+    codey.show('hello world')
+
+**示例2**
+
+    import codey
+
+    def on_start_callback():
+        codey.message('hello')
+
+    codey.on_start(on_start_callback)
+
     def on_message_callback():
-        codey.color('#ff0000')
+        codey.show('hello world')
 
     codey.on_message('hello', on_message_callback)
 
@@ -232,11 +243,11 @@ LED 亮起【红】
 - `wake.wav` : 激活
 - `warning.wav` : 警告
 
-    codey.say('cat.wav')
+    codey.say('hello.wav')
 
 播放声音【猫】直到结束。该次播放，不会被打断
 
-    codey.say('cat.wav', True)
+    codey.say('hello.wav', True)
 
 停止声音
 
@@ -272,8 +283,8 @@ LED 亮起【红】
     import codey
 
     codey.set_volume(100)
-    codey.say('cat.wav', True)
-    codey.say('hurt.wav', True)
+    codey.say('hello.wav', True)
+    codey.say('hi.wav', True)
 
 
 # 陀螺仪
