@@ -347,4 +347,4 @@ mblock5的变量名只支持拉丁字母，不支持汉字，可以使用英文�
 
 欢迎大家登陆程小奔官方论坛分享自己的作品，交流产品使用技巧：
 
-http://bbs.makeblock.com/forum-95-1.html
+[http://bbs.makeblock.com/forum-95-1.html](http://bbs.makeblock.com/forum-95-1.html)

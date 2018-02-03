@@ -189,19 +189,48 @@ LED 亮起【红】
 
 可选的参数如下：
 
-- ``start.wav``  启动
-- ``switch.wav``  开关
-- ``wake.wav``  激活
-- ``hurt.wav``  痛苦
-- ``score.wav``  提示
-- ``fire_alarm.wav``  错误
-- ``beeps.wav``  得分
-- ``gunshot.wav``  哔哔
-- ``death.wav``  蜂鸣
-- ``exhaust.wav``  排气
-- ``explosion.wav``  爆炸
-- ``radar.wav``  跳动
-- ``ringing.wav``  激光
+- `hello.wav` : 哈喽
+- `hi.wav` : 嗨
+- `bye.wav` : 拜
+- `yeah.wav` : 耶
+- `wow.wav` : 哇哦
+- `laugh.wav` : 笑声
+- `hum.wav` : 哼唱
+- `sad.wav` : 难过
+- `sigh.wav` : 叹气
+- `annoyed.wav` : 哼！
+- `angry.wav` : 生气
+- `surprised.wav` : 惊吓
+- `yummy.wav` : 撒娇
+- `curious.wav` : 好奇
+- `embarrassed.wav` : 尴尬
+- `ready.wav` : 准备
+- `sprint.wav` : 冲刺
+- `sleepy.wav` : 打呼
+- `meow.wav` : 喵
+- `start.wav` : 启动
+- `switch.wav` : 开关
+- `beeps.wav` : 哔哔
+- `buzzing.wav` : 蜂鸣
+- `exhaust.wav` : 排气
+- `explosion.wav` : 爆炸
+- `gotcha.wav` : 获取
+- `hurt.wav` : 痛苦
+- `jump.wav` : 跳动
+- `laser.wav` : 激光
+- `level up.wav` : 升级
+- `low energy.wav` : 低能量
+- `metal clash.wav` : 金属音
+- `prompt tone.wav` : 提示
+- `right.wav` : 正确
+- `wrong.wav` : 错误
+- `ring.wav` : 铃声
+- `score.wav` : 得分
+- `shot.wav` : 发射
+- `step_1.wav` : 脚步声1
+- `step_2.wav` : 脚步声2
+- `wake.wav` : 激活
+- `warning.wav` : 警告
 
     codey.say('cat.wav')
 
