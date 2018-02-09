@@ -23,7 +23,7 @@ Alpha.8版本增加了很多特性和功能，该文档以小项目的形式介�
 
 请登陆以下链接下载最新版本的软件：
 
-http://www.mblock.cc/zh-home/software/mblock/mblock5/
+[http://www.mblock.cc/zh-home/software/mblock/mblock5/)(http://www.mblock.cc/zh-home/software/mblock/mblock5/)
 
 ## 软件界面与名词解释
 
