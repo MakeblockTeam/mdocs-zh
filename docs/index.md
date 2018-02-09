@@ -23,7 +23,7 @@ Alpha.8版本增加了很多特性和功能，该文档以小项目的形式介�
 
 请登陆以下链接下载最新版本的软件：
 
-[http://www.mblock.cc/zh-home/software/mblock/mblock5/)(http://www.mblock.cc/zh-home/software/mblock/mblock5/)
+[http://www.mblock.cc/zh-home/software/mblock/mblock5/](http://www.mblock.cc/zh-home/software/mblock/mblock5/)
 
 ## 软件界面与名词解释
 
@@ -250,8 +250,14 @@ mblock5的变量名只支持拉丁字母，不支持汉字，可以使用英文�
 >![codey](image/52.png)
 
 ## 8.躲避障碍物 ***（高级）***
+该项目使用程小奔及其传感器，使用小奔的相关功能时，需要在软件中添加小奔扩展
 
-该项目使用程小奔及其传感器，程小奔包含一个可以向前及向下拨动的颜色红外传感器，该项目需要将颜色红外传感器拨到前方，用来检测程小奔前方的障碍物。
+![codey](image/53_01.png)
+
+![codey](image/53_02.png)
+
+
+程小奔包含一个可以向前及向下拨动的颜色红外传感器，该项目需要将颜色红外传感器拨到前方，用来检测程小奔前方的障碍物。
 
 ![codey](image/53.png)
 
